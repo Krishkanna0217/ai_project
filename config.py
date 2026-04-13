@@ -2,7 +2,7 @@
 #  CONFIG
 # ============================================================
 
-HF_API_KEY = "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"
+HF_API_KEY = "Enter api key"
 
 # LLM model — runs on HuggingFace cloud via huggingface_hub SDK
 LLM_MODEL = "meta-llama/Llama-3.1-8B-Instruct"
